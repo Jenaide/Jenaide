@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jenaide" alt="jenaide" /></a> </p>
 
-- 🔭 I’m currently working on **Django-weather-app**
+- 🔭 I’m currently working on **Django-e-comm website**
 
 - 🌱 I’m currently learning **C and Django framework**
 
