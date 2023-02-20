@@ -29,3 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jenaide&show_icons=true&locale=en&layout=compact" alt="jenaide" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jenaide&show_icons=true&locale=en" alt="jenaide" /></p>
+:busstop: Profile Visits ![Visitor Count](https://profile-counter.glitch.me/faithfulojebiyi/count.svg)
