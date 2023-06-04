@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jenaide</h1>
-<h3 align="center">A passionate Software Engineer in training from South Africa</h3>
+<h3 align="center">A passionate Software Engineer in South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenaide&label=Profile%20views&color=0e75b6&style=flat" alt="jenaide" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Django-e-comm website**
 
-- 🌱 I’m currently learning **C and Django framework**
+- 🌱 I’m currently learning **C, Python, .NET and Django framework**
 
-- 💬 Ask me about **C, Python.**
+- 💬 Ask me about **Programming and Finance.**
 
 - 📫 How to reach me **jenaidesibolie@gmail.com**
 
