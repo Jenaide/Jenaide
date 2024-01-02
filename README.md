@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jenaide</h1>
-<h3 align="center">A passionate Software Engineer in South Africa</h3>
+<h3 align="center">A passionate Software Developer in South Africa</h3>
 
-- 🔭 I’m currently working on **Django-e-comm website**
+- 🔭 I’m currently working on **My-Portfolio-website**
 
-- 🌱 I’m currently learning **C, Python, .NET and Django framework**
+- 🌱 My programming skills extends to **C, Python, .NET and Django framework**
 
 - 💬 Ask me about **Programming and Finance.**
 
