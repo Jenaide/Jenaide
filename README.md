@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My-Portfolio-website**
 
-- 🌱 My programming skills extends to **C, Python, .NET and Django framework**
+- 🌱 My programming skills extends to **C, Python, C# , Flask and Django framework**
 
 - 💬 Ask me about **Programming and Finance.**
 
