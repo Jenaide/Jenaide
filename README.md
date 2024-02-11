@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jenaide</h1>
 <h3 align="center">A passionate Software Developer in South Africa</h3>
 
-- 🔭 I’m currently working on **My-Portfolio-website**
+- 🔭 I’m currently working on **Intern-blog-platform**
 
 - 🌱 My programming skills extends to **C, Python, C# , Flask and Django framework**
 
