@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jenaide</h1>
-<h3 align="center">A passionate Software Developer in South Africa</h3>
+<h3 align="center">A passionate Full Stack Developer in South Africa</h3>
 
-- 🔭 I’m currently working on **Intern-blog-platform**
+- 🔭 I’m currently working on **Workflow Automation Tool**
 
-- 🌱 My programming skills extends to **C, Python, C# , Flask and Django framework**
+- 🌱 My programming skills extends to Python, JavaScript, C#,
 
-- 💬 Ask me about **Programming and Finance.**
+- 🤝 Frameworks like NextJS, Flask and Django**
+
+- 💬 Ask me about **Programming and Business Analysis.**
 
 - 📫 How to reach me **jenaidesibolie@gmail.com**
 
